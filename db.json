@@ -23,6 +23,14 @@
       "storage": "128",
       "quantity": "5",
       "id": 3
+    },
+    {
+      "brand": "3",
+      "mobile": "Nord CE3",
+      "ram": "4",
+      "storage": "64",
+      "quantity": "2",
+      "id": 4
     }
   ],
   "brands": [
