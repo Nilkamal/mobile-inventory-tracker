@@ -2,7 +2,6 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Create from "../pages/mobiles/Create";
 import Mobiles from "../pages/mobiles";
-import Search from "./Search";
 
 export default function Router(props) {
   return (
