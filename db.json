@@ -1,0 +1,46 @@
+{
+  "mobiles": [
+    {
+      "brand": "2",
+      "mobile": "T2 X",
+      "ram": "16",
+      "storage": "64",
+      "quantity": "5",
+      "id": 1
+    },
+    {
+      "brand": "2",
+      "mobile": "T2 X",
+      "ram": "4",
+      "storage": "128",
+      "quantity": "5",
+      "id": 2
+    },
+    {
+      "brand": "3",
+      "mobile": "Nord CE2",
+      "ram": "6",
+      "storage": "128",
+      "quantity": "5",
+      "id": 3
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "brand": "Oppo"
+    },
+    {
+      "id": 2,
+      "brand": "Vivo"
+    },
+    {
+      "id": 3,
+      "brand": "One Plus"
+    },
+    {
+      "id": 4,
+      "brand": "Nokia"
+    }
+  ]
+}
